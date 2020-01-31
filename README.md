@@ -10,7 +10,7 @@
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
-* [Contact](#contact)
+* [Contributors](#Contributors)
 * [Acknowledgements](#acknowledgements)
 
 
@@ -127,5 +127,5 @@ Contributions are what make the open source community such an amazing place to b
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-Contributors
+#Contributors
 - [Remi Boivin](https://facebook.com/remi.boivin.9) - remi.boivin[at]epitech.eu
