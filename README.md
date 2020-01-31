@@ -110,7 +110,12 @@ git branch branch_name
 ```
 * For select a branch
 ```sh
-git branch branch_name
+git checkout branch_name
+```
+
+* For merge a branch in a parent branch
+```sh
+git merge branch_name
 ```
 
 ## Contributing
